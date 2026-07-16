@@ -1,10 +1,10 @@
 # [level 1] 문자열을 정수로 바꾸기 - 12925 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=python3) 
 
 ### 성능 요약
 
-메모리: 5.07 MB, 시간: 0.01 ms
+메모리: 11.5 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 16일 10:51:34
+2026년 07월 16일 11:09:09
 
 ### 문제 설명
 
